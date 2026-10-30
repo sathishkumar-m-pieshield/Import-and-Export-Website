@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" role="img" aria-labelledby="title">
+  <title id="title">Fresh produce from Tamil Nadu</title>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e4edd8"/><stop offset="1" stop-color="#91ae7e"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#235d3b"/><stop offset="1" stop-color="#a2c46b"/></linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#sky)"/>
+  <circle cx="1070" cy="177" r="94" fill="#f6f0ca" opacity=".8"/>
+  <path d="M0 521c249-156 434-76 646 2 234 86 484-128 754-40v517H0z" fill="#668d60"/>
+  <path d="M0 660c285-132 465-33 709 28 233 59 477-89 691-49v361H0z" fill="#385f45"/>
+  <g fill="url(#leaf)" stroke="#235f3e" stroke-width="6">
+    <path d="M230 790C133 589 179 404 356 296c138 171 133 354-126 494z"/>
+    <path d="M365 815c-20-259 69-421 285-501 75 225-7 411-285 501z"/>
+    <path d="M1016 828c7-274 127-436 372-483 39 252-91 421-372 483z"/>
+    <path d="M1115 813c79-244 231-360 473-347-33 246-199 382-473 347z"/>
+  </g>
+  <g fill="none" stroke="#c4d992" stroke-width="8" opacity=".75"><path d="m233 788 120-471m-1 496 277-481m385 504 337-463m-240 450 452-347"/></g>
+  <ellipse cx="715" cy="900" rx="440" ry="62" fill="#203e2a" opacity=".28"/>
+  <g transform="translate(467 633)">
+    <path d="M60 196c-35-89-3-186 82-226 82-40 187-5 218 75 31 81-27 158-111 184-72 22-153 9-189-33z" fill="#6b4d34"/>
+    <path d="M100 185c-25-67 4-135 65-164 63-29 139-3 161 55 21 59-21 112-84 130-55 16-116 8-142-21z" fill="#f4f1dc" stroke="#ddd5bb" stroke-width="9"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Fresh leafy greens</title>
+  <defs>
+    <linearGradient id="back" x2="0" y2="1"><stop stop-color="#d6e8cd"/><stop offset="1" stop-color="#91af78"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#1f623d"/><stop offset=".55" stop-color="#4d9d4f"/><stop offset="1" stop-color="#9dc66b"/></linearGradient>
+    <linearGradient id="lightleaf" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#367d43"/><stop offset="1" stop-color="#b5d77b"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#back)"/>
+  <path d="M0 690c208-86 400-58 584-12 220 54 407 49 616-54v276H0z" fill="#617d4d" opacity=".25"/>
+  <g fill="url(#leaf)" stroke="#28633b" stroke-width="5">
+    <path d="M598 790C354 658 199 446 290 243c205 43 362 233 308 547z"/>
+    <path d="M598 790C527 529 574 279 793 151c136 194 83 463-195 639z"/>
+    <path d="M596 790C288 784 70 654 48 419c228-84 481 26 548 371z"/>
+    <path d="M600 790c169-261 391-381 591-269-37 232-245 390-591 269z"/>
+    <path d="M599 790C401 546 351 306 503 115c218 99 300 362 96 675z" fill="url(#lightleaf)"/>
+  </g>
+  <g fill="none" stroke="#c2da8a" stroke-width="8" stroke-linecap="round" opacity=".85">
+    <path d="M600 786 325 274m275 512 172-590M600 786 79 430m521 356 565-245M600 786 511 137"/>
+    <path d="m389 395-69 1m111 102-88 16m199-222 71-55m-23 181 106-59m-371 244-94-35m490 134 126-55" stroke-width="5"/>
+  </g>
+  <ellipse cx="600" cy="794" rx="300" ry="28" fill="#244930" opacity=".25"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sanjay Global Traders emblem</title>
+  <desc id="desc">Blue-to-green globe mark with an interwoven S and trade initials</desc>
+  <defs>
+    <linearGradient id="globe" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#064b9b"/>
+      <stop offset=".52" stop-color="#079cae"/>
+      <stop offset="1" stop-color="#24b876"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#globe)" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="150" cy="150" r="126" stroke-width="9"/>
+    <path d="M47 98c55 39 143 37 207-5M43 198c53-40 144-42 211 0M150 25c-57 48-69 167 0 250M150 25c58 47 71 164 0 250" stroke-width="7" opacity=".82"/>
+    <path d="M187 36c-47 4-80 22-91 51-11 30 12 48 48 62 37 14 67 27 68 56 1 31-31 52-84 64" stroke-width="21"/>
+    <path d="M116 88c36 17 89 13 130-9M161 176h98v20h-34v65h-22v-65h-42" stroke-width="17"/>
+    <path d="M81 202h87v18h-32v45h-22v-45H81" stroke-width="17"/>
+  </g>
+</svg>

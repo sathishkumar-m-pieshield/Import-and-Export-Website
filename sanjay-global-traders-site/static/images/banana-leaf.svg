@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Fresh banana leaf</title>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#d4e4cc"/><stop offset="1" stop-color="#789774"/></linearGradient>
+    <linearGradient id="blade" x1="0" y1="1" x2=".8" y2="0"><stop stop-color="#155c39"/><stop offset=".48" stop-color="#31834a"/><stop offset="1" stop-color="#9dc574"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 728c302-98 570-4 1200-144v316H0z" fill="#315c3c" opacity=".28"/>
+  <g transform="rotate(-14 600 470)">
+    <path d="M113 633C281 389 505 189 1059 140c-89 297-369 523-946 493z" fill="url(#blade)" stroke="#215c38" stroke-width="9"/>
+    <path d="M122 636c281-147 565-303 925-489" fill="none" stroke="#d0df9e" stroke-width="11" stroke-linecap="round"/>
+    <g fill="none" stroke="#a8cb78" stroke-width="6" opacity=".85">
+      <path d="M273 554 258 455m127 38-15-126m154 78-14-145m151 78-4-128m143 45 34-111m-656 402-67-61m206-42-75-79m224-10-60-104m232-26-22-91m177-23 90-48M337 528l-64 61m207-150-44 105m195-206-30 128m205-248-2 119"/>
+    </g>
+    <path d="M161 625c234-126 512-285 837-451" fill="none" stroke="#c0d996" stroke-width="3" opacity=".7"/>
+  </g>
+  <g fill="#eff5dc" opacity=".7"><circle cx="1000" cy="238" r="6"/><circle cx="1040" cy="280" r="4"/><circle cx="948" cy="297" r="5"/></g>
+</svg>

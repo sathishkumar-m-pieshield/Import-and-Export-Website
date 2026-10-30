@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Fresh opened coconut</title>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#dcebd6"/><stop offset="1" stop-color="#789b73"/></linearGradient>
+    <radialGradient id="shell" cx="35%" cy="28%"><stop stop-color="#9c7650"/><stop offset=".7" stop-color="#62462f"/><stop offset="1" stop-color="#382d25"/></radialGradient>
+    <radialGradient id="meat" cx="38%" cy="28%"><stop stop-color="#fffef4"/><stop offset=".72" stop-color="#f3efd9"/><stop offset="1" stop-color="#c9c4a9"/></radialGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <path d="M0 620c230-95 414-83 625-20s381 80 575-10v310H0z" fill="#4e7958" opacity=".35"/>
+  <ellipse cx="595" cy="706" rx="380" ry="70" fill="#243f2c" opacity=".35" filter="url(#shadow)"/>
+  <g transform="rotate(-11 580 468)">
+    <path d="M223 518c-80-125-21-289 110-357 131-68 332-24 426 92 94 116 72 271-33 360-119 101-410 98-503-95z" fill="url(#shell)"/>
+    <path d="M264 482c-56-99-9-227 91-280 111-59 284-22 360 73 77 96 53 214-34 288-101 86-349 82-417-81z" fill="url(#meat)" stroke="#d8d0b8" stroke-width="12"/>
+    <path d="M278 465c-19-87 22-177 95-221 91-54 226-28 293 35-40-91-191-145-301-96-113 50-155 181-87 282z" fill="#fffef7" opacity=".8"/>
+    <path d="M193 562c104-49 225-48 335 5 71 34 148 45 234 26-86 99-254 133-405 84-80-26-132-63-164-115z" fill="#315d3b"/>
+    <path d="M249 610c102-39 189-35 281 6m-228-35c87-32 174-27 257 10m-180-64c65-12 126-8 187 15" fill="none" stroke="#83a36a" stroke-width="9" stroke-linecap="round" opacity=".7"/>
+  </g>
+  <g fill="#f2f1e2" opacity=".9"><circle cx="912" cy="218" r="7"/><circle cx="944" cy="250" r="4"/><circle cx="875" cy="268" r="5"/></g>
+</svg>
